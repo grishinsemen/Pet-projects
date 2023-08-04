@@ -8,7 +8,7 @@
 </p>
 
 ## About
-
+Практический анализ данных по Covid 19
 
 
 ## Documentation
