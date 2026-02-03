@@ -1,4 +1,3 @@
-![HH Job Market Analyzer Banner](https://via.placeholder.com/1200x400/1a1f3a/ffffff?text=HH+Job+Market+Analyzer)
 
 # 📊 HeadHunter Job Market Analyzer
 
