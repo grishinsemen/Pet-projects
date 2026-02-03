@@ -1,5 +1,7 @@
 <div align="center">
   <img src="logo.png" alt="HH Job Analyzer Logo" width="600"/>
+
+  [![Test](https://github.com/grishinsemen/Pet-projects/actions/workflows/test.yml/badge.svg)](https://github.com/grishinsemen/Pet-projects/actions/workflows/test.yml)
 </div>
 
 # 📊 HeadHunter Job Market Analyzer

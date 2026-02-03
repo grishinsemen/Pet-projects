@@ -25,4 +25,4 @@ env/
 Thumbs.db
 
 # Results (optional - uncomment if you don't want to commit results)
-# results/*.json
+results/*.json
