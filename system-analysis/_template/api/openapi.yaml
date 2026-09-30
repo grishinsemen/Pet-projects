@@ -1,0 +1,80 @@
+openapi: 3.0.3
+info:
+  title: Название API
+  description: Что делает сервис. Замените этот текст.
+  version: 0.1.0
+servers:
+  - url: https://api.example.com/v1
+paths:
+  /items:
+    get:
+      summary: Список объектов
+      parameters:
+        - name: status
+          in: query
+          required: false
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Успешный ответ
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Item'
+        '400':
+          description: Некорректные параметры
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'
+    post:
+      summary: Создать объект
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/ItemCreate'
+      responses:
+        '201':
+          description: Создано
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Item'
+        '422':
+          description: Данные не прошли проверку
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'
+components:
+  schemas:
+    Item:
+      type: object
+      required: [id, name, status]
+      properties:
+        id:
+          type: integer
+        name:
+          type: string
+        status:
+          type: string
+          enum: [new, in_progress, done]
+    ItemCreate:
+      type: object
+      required: [name]
+      properties:
+        name:
+          type: string
+    Error:
+      type: object
+      required: [code, message]
+      properties:
+        code:
+          type: string
+        message:
+          type: string
