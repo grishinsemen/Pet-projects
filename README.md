@@ -1,9 +1,9 @@
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-0055DA?style=for-the-badge&logo=fastapi&logoColor=white)
-![BPMN 2.0](https://img.shields.io/badge/BPMN_2.0-FF6F00?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-D9C4B1)
+![SQL](https://img.shields.io/badge/SQL-9B51E0)
+![REST API](https://img.shields.io/badge/REST_API-0055DA?logo=fastapi&logoColor=white)
+![BPMN 2.0](https://img.shields.io/badge/BPMN_2.0-FF6F00?logo=diagramsdotnet&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)
 # Pet-projects
 
 Мои учебные проекты по аналитике: анализ данных и системный анализ. Всё собрано в одном репозитории, у каждого проекта свой README.
