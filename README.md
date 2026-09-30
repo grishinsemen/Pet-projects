@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/BPMN_2.0-FF6F00?logo=diagramsdotnet&logoColor=white" alt="BPMN 2.0" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black" alt="Swagger" />
 </p>
+
 # Pet-projects
 
 Мои учебные проекты по аналитике: анализ данных и системный анализ. Всё собрано в одном репозитории, у каждого проекта свой README.
