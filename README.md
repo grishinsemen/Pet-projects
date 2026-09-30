@@ -1,9 +1,11 @@
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-D9C4B1)
-![SQL](https://img.shields.io/badge/SQL-9B51E0)
-![REST API](https://img.shields.io/badge/REST_API-0055DA?logo=fastapi&logoColor=white)
-![BPMN 2.0](https://img.shields.io/badge/BPMN_2.0-FF6F00?logo=diagramsdotnet&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Jupyter-D9C4B1" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/SQL-9B51E0" alt="SQL" />
+  <img src="https://img.shields.io/badge/REST_API-0055DA?logo=fastapi&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/BPMN_2.0-FF6F00?logo=diagramsdotnet&logoColor=white" alt="BPMN 2.0" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black" alt="Swagger" />
+</p>
 # Pet-projects
 
 Мои учебные проекты по аналитике: анализ данных и системный анализ. Всё собрано в одном репозитории, у каждого проекта свой README.
