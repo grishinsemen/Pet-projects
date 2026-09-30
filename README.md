@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/python-3.6%20%7C%203.7%20%7C%203.8%20%7C%203.9-3776AB)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-D9C4B1)
+![SQL](https://img.shields.io/badge/SQL-9B51E0)
+![Tableau](https://img.shields.io/badge/Tableau-1E8B83)
 # Pet-projects
 
 Мои учебные проекты по аналитике: анализ данных и системный анализ. Всё собрано в одном репозитории, у каждого проекта свой README.
